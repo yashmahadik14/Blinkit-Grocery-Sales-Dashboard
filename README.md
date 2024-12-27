@@ -1,8 +1,8 @@
 # Blinkit-Grocery-Sales-Dashboard
 
-# Blinkit Groceries Sales Dashboard
 
-## 🏠 Introduction
+
+##  Introduction
 
 The Blinkit Groceries Sales Dashboard is an interactive Power BI project designed to provide actionable insights into the sales and performance metrics of a grocery platform. It consolidates data from various sources to offer a comprehensive view of total sales, item performance, outlet efficiency, and customer preferences. The dashboard enables data-driven decisions to optimize sales strategies, streamline operations, and enhance customer satisfaction.
 
@@ -53,15 +53,19 @@ The dashboard was built using the following methodology:
    - **Bar Chart**:
      - Item type performance (Fruits, Snacks, Dairy, etc.).
      - Tier-wise sales distribution (Tier 1, Tier 2, Tier 3).
+
+![image](https://github.com/user-attachments/assets/d648dd7b-7686-4a78-a01f-d01f1ae1b52c)
+    
+
    - **Line Chart**:
      - Sales trends by outlet establishment year.
 
-3. **Filters**:
+2. **Filters**:
    - **Outlet Location Type**: Filter data by Tier 1, Tier 2, or Tier 3.
    - **Outlet Size**: View performance for small, medium, or large outlets.
    - **Item Type**: Analyze specific item categories.
 
-4. **Color Coding**:
+3. **Color Coding**:
    - Distinct colors used for different outlet types and tiers for easy interpretation.
 
 ---
