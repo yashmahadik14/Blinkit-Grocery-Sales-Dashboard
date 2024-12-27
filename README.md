@@ -47,9 +47,15 @@ The dashboard was built using the following methodology:
 
 
 2. **Charts and Graphs**:
-   - **Pie Chart**: 
+   - **Donut Chart**: 
      - Distribution of sales by outlet size (Small, Medium, High).
+    
+   ![image](https://github.com/user-attachments/assets/f4cda2a5-51f0-4988-9b20-42a9ab797686)
+
      - Fat content (Low Fat vs. Regular) contribution to sales.
+  
+       ![image](https://github.com/user-attachments/assets/042d7f64-c98d-4d86-bef1-d660c1570ab3)
+
    - **Bar Chart**:
      - Item type performance (Fruits, Snacks, Dairy, etc.).
      - Tier-wise sales distribution (Tier 1, Tier 2, Tier 3).
@@ -60,13 +66,29 @@ The dashboard was built using the following methodology:
    - **Line Chart**:
      - Sales trends by outlet establishment year.
 
+       ![image](https://github.com/user-attachments/assets/77f207b1-ef3f-4d30-bea4-56a5ae6ee02b)
+
+
+
 2. **Filters**:
    - **Outlet Location Type**: Filter data by Tier 1, Tier 2, or Tier 3.
+  
+     ![image](https://github.com/user-attachments/assets/ae8db4a6-1508-4e59-b98b-9c0a0470855c)
+
    - **Outlet Size**: View performance for small, medium, or large outlets.
+  
+     ![image](https://github.com/user-attachments/assets/4193fd5f-4ab3-4e80-8f4e-974989498f1b)
+
    - **Item Type**: Analyze specific item categories.
+  
+     ![image](https://github.com/user-attachments/assets/f7d960e8-b0dd-48de-ad61-8bc0d0a4a941)
+
 
 3. **Color Coding**:
    - Distinct colors used for different outlet types and tiers for easy interpretation.
+  
+     ![image](https://github.com/user-attachments/assets/0c03d26e-46d1-43f2-9e15-2fbd37321696)
+
 
 ---
 
@@ -108,18 +130,5 @@ The dashboard was built using the following methodology:
 5. **Expand Supermarket Type 1**:
    - Given its dominance in sales and items sold, prioritize expansion and resource allocation for Supermarket Type 1.
 
----
 
-## 🛠️ How to Use
 
-1. Open the Power BI file (`blinkit_dashboard.pbix`) using Power BI Desktop.
-2. Utilize the filters to explore specific outlet types, locations, and item categories.
-3. Leverage visualizations to identify sales trends, customer preferences, and outlet efficiencies.
-
----
-
-## 📧 Contact
-
-For queries or suggestions, feel free to reach out:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
